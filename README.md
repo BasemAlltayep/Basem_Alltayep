@@ -2,7 +2,7 @@
 
 # ⚡ Welcome To Bassem's World ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Bassem+Abdelrahim;Front-End+Developer+💻;Computer+Science+%26+AI+Student+🤖;Learning+JavaScript+%26+Building+Cool+Projects+🚀;Future+Full+Stack+Developer+🔥" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Bassem+Abdelraheem;Front-End+Developer+💻;Computer+Science+%26+AI+Student+🤖;Learning+JavaScript+%26+Building+Cool+Projects+🚀;Future+Full+Stack+Developer+🔥" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=header"/>
 
