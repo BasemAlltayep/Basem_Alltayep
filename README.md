@@ -15,7 +15,7 @@
 # 👨‍💻 About Me
 
 ```yaml
-name: Bassem Abdelrahim
+name: Bassem Abdelraheem
 nickname: "Bassem El-Tayeb"
 country: Egypt 🇪🇬
 study: Computer Science & AI Student
