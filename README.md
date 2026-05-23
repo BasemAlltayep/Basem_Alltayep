@@ -1,35 +1,46 @@
 <div align="center">
 
-# 💫 Welcome to My Universe
+# ⚡ Welcome To Bassem's World ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Bassem;Full+Stack+Developer+🚀;AI+Engineer+Student+🤖;Building+the+Future+with+Code+💻" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Bassem+Abdelrahim;Front-End+Developer+💻;Computer+Science+%26+AI+Student+🤖;Learning+JavaScript+%26+Building+Cool+Projects+🚀;Future+Full+Stack+Developer+🔥" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=header"/>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 ```yaml
-name: Bassem
-location: Egypt 🇪🇬
-role: Full Stack Developer
-education: Computer Science / AI Student
-currently_learning:
-  - Backend Development
-  - Databases
-  - AI & Machine Learning
-goal: "Become a world-class software engineer"
+name: Bassem Abdelrahim
+nickname: "Bassem El-Tayeb"
+country: Egypt 🇪🇬
+study: Computer Science & AI Student
+university_level: First Year
+specialization: Computing & Artificial Intelligence
+current_focus: Front-End Development
+goal: Become a Full Stack Developer 🚀
 ```
+
+---
+
+# 🚀 Currently Learning
+
+- HTML
+- CSS
+- JavaScript (In Progress)
+- MySQL / SQL Basics
+- C++
 
 ---
 
 # ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,cpp,mongodb,mysql,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,cpp,git,github,vscode" />
 </p>
 
 ---
@@ -76,20 +87,12 @@ goal: "Become a world-class software engineer"
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
----
-
 <div align="center">
 
-### 🚀 Code • Build • Innovate
+### 💡 "Code today, build tomorrow."
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00F7FF&height=120&section=footer"/>
